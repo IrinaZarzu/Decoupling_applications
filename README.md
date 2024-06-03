@@ -32,7 +32,6 @@ In today's fast-paced e-commerce world, managing and tracking customer orders ef
 This project demonstrates the power of AWS serverless technologies in creating a decoupled, scalable, and efficient order processing system. By using services like Lambda, SQS, and SNS, we can handle various tasks asynchronously, ensuring reliability and real-time notifications.
 Feel free to contribute to this project or reach out if you have any questions!
 
-------------------------------------------------------
-Client | v API Gateway | v Lambda Function / | \ v v v SQS FIFO SNS Topic DynamoDB | v Further Processing
+
 
 
