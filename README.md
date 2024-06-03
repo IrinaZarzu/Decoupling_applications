@@ -1,3 +1,5 @@
+![diagram-export-6-3-2024-2_32_28-PM](https://github.com/IrinaZarzu/Decoupling_applications/assets/116802082/e37ec5b8-3ebf-4c62-9d2d-e6b16515a31e)
+
 # Decoupling_applications AWS Order Processing System
 
 Welcome to the AWS Order Processing System project! This project demonstrates how to build a serverless application using AWS services to track customer orders, send notifications when orders have been received and store the order details in persistent storage. The system leverages Amazon API Gateway, AWS Lambda, Amazon SQS, and Amazon SNS, DynamoDB to achieve a decoupled and scalable architecture.
